@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Student**  
 🚀 Passionate about building, learning, and exploring technology!
-
+![Profile views](https://komarev.com/ghpvc/?username=SushantNepal09)
 <!--
 **SushantNepal09/SushantNepal09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
