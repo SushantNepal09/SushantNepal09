@@ -17,10 +17,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+
 <!-- Frameworks and Tools -->
-- Frameworks: React, Django, Flutter
+- Frameworks: React, Django, Flutter, FastAPI
 - Tools: Git, VSCode, Linux
-- Databases:, MySQL
+- Databases:, MySQL, PostgreSQL
 
 ## 📊 Most Used Languages
 
