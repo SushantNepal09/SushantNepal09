@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Nepal</h1>
-<h3 align="center">🚀 Computer Science Student | Full-Stack & ML Enthusiast</h3>
+<h3 align="center">🚀 Computer Science Student | Backend & Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sushantnepal09&label=Profile%20Views&color=blueviolet&style=flat-square" />
@@ -13,11 +13,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student passionate about **problem-solving & real-world systems**
-- 🔭 Currently working on **Crowdsourced Disaster Management System**
+- 🎓 Computer Science student focused on **Backend Systems & APIs**
+- 🔭 Currently building a **Crowdsourced Disaster Management System**
 - 🌱 Learning **Full-Stack Development & Machine Learning**
-- 💡 Interested in **Backend APIs, Mobile Apps & System Design**
-- ⚡ Fun fact: I enjoy turning ideas into working apps 🚀
+- ⚙️ Experience with **FastAPI, PostgreSQL & Flutter**
+- ⚡ I enjoy building **real-world, scalable applications**
 
 ---
 
@@ -35,6 +35,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js,dart,flutter,firebase,postgresql,git,github" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
 
 ---
@@ -53,12 +55,20 @@
 ---
 
 ## 🚀 Featured Projects
-- 🛑 **Crowdsourced Disaster Management System**
-- 📱 **Flutter Mobile Apps**
-- ⚙️ **FastAPI + PostgreSQL Backend Projects**
 
-*(More coming soon…)*
+- 🛑 **Crowdsourced Disaster Management System**  
+  *FastAPI · PostgreSQL · Flutter*  
+  A real-time system for reporting, tracking, and managing disaster-related data using crowdsourcing.
 
----
+- 🏫 **College Management System**  
+  *Flutter · Firebase*  
+  A mobile application to manage students, faculty, attendance, notices, and academic data with real-time updates.
 
-⭐ **If you like my work, consider starring my repositories!**
+- 📱 **Flutter Mobile Applications**  
+  Cross-platform apps focused on performance and clean UI.
+
+- ⚙️ **Backend APIs using FastAPI**  
+  RESTful APIs with authentication, validation, and database integration.
+****
+
+⭐ *If you like my work, consider starring my repositories!*
