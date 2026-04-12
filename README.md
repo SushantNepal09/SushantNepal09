@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sushant Nepal</h1>
-<h3 align="center">🚀 Computer Science Student | Backend & Full-Stack Developer</h3>
+<h1 align="center">Hello,I'm Sushant Nepal</h1>
+<h3 align="center">Computer Science Student | Backend & Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sushantnepal09&label=Profile%20Views&color=blueviolet&style=flat-square" />
