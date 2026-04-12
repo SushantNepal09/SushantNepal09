@@ -30,7 +30,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js,dart,flutter,firebase,postgresql,git,github" />
+  <img src="https://skillicons.dev/icons?i=cs,python,html,css,js,dart,flutter,firebase,postgresql,git,github" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
