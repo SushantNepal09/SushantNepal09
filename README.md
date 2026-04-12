@@ -1,5 +1,5 @@
 <h1 align="center">Hello,I'm Sushant Nepal</h1>
-<h3 align="center">Computer Science Student | Backend & Full-Stack Developer</h3>
+<h3 align="center">Computer Science Student | Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sushantnepal09&label=Profile%20Views&color=blueviolet&style=flat-square" />
@@ -13,11 +13,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student focused on **Backend Systems & APIs**
-- 🔭 Currently building a **Crowdsourced Disaster Management System**
-- 🌱 Learning **Full-Stack Development & Machine Learning**
-- ⚙️ Experience with **FastAPI, PostgreSQL & Flutter**
-- ⚡ I enjoy building **real-world, scalable applications**
+- Computer Science student focused on **Full Stack Mobile Application Development**
+- Currently building a **Crowdsourced Disaster Management System**
+- Learning **Full-Stack Development & Machine Learning**
+- Experience with **Python,FastAPI, PostgreSQL & Flutter**
+- I enjoy building **real-world, scalable applications**
 
 ---
 
