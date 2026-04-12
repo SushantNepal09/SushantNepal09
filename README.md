@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=sushantnepal09&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sushantnepal09&theme=dracula&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
