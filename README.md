@@ -7,17 +7,17 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 Computer Science student  
-- 📱 Focused on **Full Stack Mobile App Development**  
-- 🚧 Building a **Crowdsourced Disaster Management System**  
-- 🌱 Learning **Full Stack Development & Machine Learning**  
-- ⚡ Love building **real-world scalable apps**
+-  Computer Science student  
+-  Focused on **Full Stack Mobile App Development**  
+-  Building a **Crowdsourced Disaster Management System**  
+-  Learning **Full Stack Development & Machine Learning**  
+-  Love building **real-world scalable apps**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 - Python • JavaScript • Dart • HTML • CSS  
@@ -33,25 +33,25 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🛑 Crowdsourced Disaster Management System  
+###  Crowdsourced Disaster Management System  
 **FastAPI • PostgreSQL • Flutter**  
 Real-time disaster reporting and tracking system using crowdsourced data.
 
-### 🏫 College Management System  
+###  College Management System  
 **Flutter • Firebase**  
 App for managing students, attendance, notices, and academic data.
 
-### 📱 Flutter Apps  
+###  Flutter Apps  
 Cross-platform mobile apps with clean UI and strong performance.
 
-### ⚙️ FastAPI Backends  
+###  FastAPI Backends  
 REST APIs with authentication, validation, and database integration.
 
 ---
 
-## 🌐 Connect
+##  Connect
 
 <p>
   <a href="https://linkedin.com/in/sushant-nepal-3797553a2">
@@ -61,4 +61,4 @@ REST APIs with authentication, validation, and database integration.
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*
+ *If you like my work, consider starring my repositories!*
