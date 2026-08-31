@@ -20,7 +20,7 @@
 ## Tech Stack
 
 **Languages**
-- Python • JavaScript • Dart • HTML • CSS  
+- Python • Dart • SQL
 
 **Frameworks & Tools**
 - FastAPI • Flutter • Firebase  
