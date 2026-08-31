@@ -10,10 +10,10 @@
 ##  About Me
 
 -  Computer Science student  
--  Focused on **Full Stack Mobile App Development**  
+-  Focused on **Data analytics**  
 -  Building a **Crowdsourced Disaster Management System**  
--  Learning **Full Stack Development & Machine Learning**  
--  Love building **real-world scalable apps**
+-  Learning **Data analytics & Machine Learning**  
+
 
 ---
 
@@ -26,7 +26,7 @@
 - FastAPI • Flutter • Firebase  
 
 **Database**
-- PostgreSQL • Supabase
+- PostgreSQL • Supabase • MYSQL  
 
 **Other**
 - Git • GitHub  
